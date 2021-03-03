@@ -13,6 +13,7 @@ if (j==1 || j==n || i==j)
 cout<<"*";
 }
 else
+// Creater By Sanusanth
 {
 cout<<" ";
 }
