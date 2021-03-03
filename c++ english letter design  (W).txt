@@ -14,6 +14,7 @@ if (j==1 || j==2*n-1 || j==x || j==2*n-x)
 cout<<"*";
 }
 else
+// Creater By Sanusanth
 {
 cout<<" ";
 }
