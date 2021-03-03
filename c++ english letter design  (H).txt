@@ -13,6 +13,7 @@ if ( j==1 || j==n || i==n/2+1)
 cout<<"*";
 }
 else 
+// Creater By Sanusanth
 {
 cout<<" ";
 }
@@ -28,7 +29,7 @@ return 0;
 *                *
 *                *
 *                *
-**********
+* * * * * * * * * 
 *                *
 *                *
 *                *
